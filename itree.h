@@ -10,9 +10,11 @@
  *
  * TODO: v1.0 should support locking so that it can be used in a multithreaded environment.
  *
+ * this initial commit is Copyright (c) 2011 Steve Uurtamo
+ *
  * the original AVL tree code is Copyright (c) 2005 Ian Piumarta
  *
- * his copyright notice follows:
+ * his (Ian's) copyright notice follows; this modified version falls under the same license:
  *
  * All rights reserved.
  * 
