@@ -1,14 +1,9 @@
-/* v0.2 itree.h -- AVL-based interval trees
+/* itree.h -- AVL-based interval trees
  * 
  * this has been hacked up to support interval trees, searching interval trees, and computing
  * useful information about members of interval trees
  * 
  * this hacked code no longer supports regular binary trees.
- *
- * it is not ready for prime time (documentation needs to be written), but it works fine, and
- * the obvious adjustments to the original AVL test code work as you'd expect them to.
- *
- * TODO: v1.0 should support locking so that it can be used in a multithreaded environment.
  *
  * this initial commit is Copyright (c) 2011 Steve Uurtamo
  *
